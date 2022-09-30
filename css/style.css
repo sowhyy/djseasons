@@ -55,12 +55,12 @@ ul#sns li span:hover {
   opacity: 1;
 }
 
-@font-face {
-    font-family: 'Cafe24Ssurround';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+img.logo {
+  width: 70%;
+  float: right;
 }
+
+
 ul#menu {
   /* font-family: 'Jua', sans-serif; */
   /* font-family: 'Spoqa Han Sans Neo', 'sans-serif'; */
